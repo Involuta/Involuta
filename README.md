@@ -1,6 +1,7 @@
 Hello! My name is Ryan Bascos, and I'm
-- 💻 a Computer Science and Engineering student
-- 🏫 studying at the University of California, Irvine
+- ⚙️ a Computer Science and Engineering graduate
+- 🏫 from the University of California, Irvine
+- 💻 a project software developer 
 - 🎮 a programmer and producer for video game projects
 - 📚 an AI/ML researcher
 - 👀 available for research or work
